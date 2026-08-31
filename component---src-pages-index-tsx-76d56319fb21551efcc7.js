@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslap_kommerce_web=self.webpackChunkslap_kommerce_web||[]).push([[691],{7200:function(e,a,r){r.r(a);var c=r(7294),t=r(9905);a.default=()=>c.createElement(t.default,{bgimgopacity:"1.0",bgimgoverride:"rgba(242, 205, 97,0.4)"})}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-76d56319fb21551efcc7.js.map

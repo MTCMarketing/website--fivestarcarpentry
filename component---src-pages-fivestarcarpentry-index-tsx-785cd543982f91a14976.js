@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslap_kommerce_web=self.webpackChunkslap_kommerce_web||[]).push([[732],{5727:function(e,l,a){a.r(l);var u=a(7294),c=a(3826);l.default=()=>u.createElement(c.default,null)}}]);
+//# sourceMappingURL=component---src-pages-fivestarcarpentry-index-tsx-785cd543982f91a14976.js.map
